@@ -1,4 +1,4 @@
-# Yusuf Tekin İstifa
+# Ana Sayfa
 
 yusuftekinistifa.click kar amacı gütmemektedir
 
