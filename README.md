@@ -10,3 +10,6 @@ yusuftekinistifa.click kar amacı gütmemektedir
 [Bu kampanyayı e-posta ile imzalayın](https://www.change.org/p/yusuf-tekin-istifa-imza-kampanyası?redirect_reason=guest_user)
 
 [neden?](/neden.md)
+
+
+yusuftekinistifa.click (0) V1.2
