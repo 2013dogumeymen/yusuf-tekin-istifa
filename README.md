@@ -1,5 +1,7 @@
 # Ana Sayfa
 
+CC0 ile lisanslanmıştır, 
+
 yusuftekinistifa.click kar amacı gütmemektedir
 
 [Müzik](https://youtu.be/r3C2Ya5Q9Ps?si=OHRsUIGM0k5UbjzG)
